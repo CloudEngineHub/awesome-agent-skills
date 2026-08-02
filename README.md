@@ -1685,6 +1685,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[infrasity-labs/dev-gtm-claude-skills](https://github.com/infrasity-labs/dev-gtm-claude-skills)**: GTM-focused skill collection for developer go-to-market workflows including launch planning, positioning, and outbound sequences.
 - **[nowork-studio/NotFair](https://github.com/nowork-studio/NotFair)** - SEO, GEO, Google Ads, and Meta Ads skills with live data
 - **[aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)** - 69 marketing skills across SEO/GEO, influencer, paid ads, and email on one shared contract, with 5 benchmark-driven auditor gates (CORE-EEAT, CITE, C³, ROAS, SEND) and keyless data connectors
+- **[AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder)** - 18 go-to-market skills for solo technical founders: positioning, first users, launch, pricing, and founder-led sales; grounded in Adam Frankl and Jakub Czakon
 
 </details>
 
