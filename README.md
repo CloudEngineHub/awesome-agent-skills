@@ -79,16 +79,23 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Redis](#skills-by-redis) | [NVIDIA](#skills-by-nvidia) | [Google Cloud](#skills-by-google-cloud) | [Quality Standards](#skill-quality-standards) |
 
 
-<br/>
 
 <br/>
 
-<a href="https://launchkit.getdesign.md/">
-<img src="https://cdn.voltagent.dev/awesome-repo/launchkit-banner-3.png" alt="launchkit"  /><br/>
+You ship products with AI, but every launch still dies quietly because nobody posts about it. [EveryFeed](https://everyfeed.ai/) plugs your AI assistant into a social workspace that drafts, schedules, and publishes across 35+ channels — no agency, no marketing hire.
+
+<a href="https://everyfeed.ai/">
+<img src="https://cdn.voltagent.dev/awesome-repo/everyfeed-social.png" alt="everyfeed"  /><br/>
 </a>
 
 <br/>
+<br/>
 
+Stop building from a blank page. [LaunchKit](https://launchkit.getdesign.md/) gives your AI coding assistant a complete, working product to start from — websites, startups, and web apps that are clickable on day one.
+
+<a href="https://launchkit.getdesign.md/">
+<img src="https://cdn.voltagent.dev/awesome-repo/new-launchkit.png" alt="launchkit"  /><br/>
+</a>
 
 <br/>
 
@@ -1679,6 +1686,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[nowork-studio/NotFair](https://github.com/nowork-studio/NotFair)** - SEO, GEO, Google Ads, and Meta Ads skills with live data
 - **[aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)** - 69 marketing skills across SEO/GEO, influencer, paid ads, and email on one shared contract, with 5 benchmark-driven auditor gates (CORE-EEAT, CITE, C³, ROAS, SEND) and keyless data connectors
 - **[Bomx/distribb-skill](https://github.com/Bomx/distribb-skill)** - SEO articles, keyword research, CMS publishing, high-DR backlink exchange
+- **[AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder)** - 18 go-to-market skills for solo technical founders: positioning, first users, launch, pricing, and founder-led sales; grounded in Adam Frankl and Jakub Czakon
 
 </details>
 
@@ -1805,6 +1813,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
 - **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
+- **[browser-act/browser-act](https://github.com/browser-act/skills/tree/main/browser-act)** - Automate authenticated browsers with extraction and human handoff
 
 </details>
 
@@ -1825,6 +1834,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[sametbrr/llm-wiki-manager](https://github.com/sametbrr/llm-wiki-manager)** - Persistent LLM-managed personal wiki — the model writes, cross-references, and maintains the knowledge base while you curate sources. Implements Karpathy's LLM Wiki pattern with 8 operating modes.
 - **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)** - Multi-platform search CLI for 17 sites including Chinese platforms
 - **[Tubo2333/obsidian-knowledge-brain](https://github.com/Tubo2333/obsidian-knowledge-brain)** - Cross-session knowledge memory and rule evolution for AI coding agents
+- **[oliver-zehentleitner/keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why)** - Preserves the reasoning behind a codebase — decisions, workarounds, rejected alternatives
 
 </details>
 
@@ -1864,6 +1874,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[aklofas/kicad-happy](https://github.com/aklofas/kicad-happy)** - AI-powered KiCad electronics design review and analysis
 - **[bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills)** - Full-lifecycle AI music album production
 - **[Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill)** - Rewrites a rough idea or shot script into text-to-video prompts
+- **[Orkas-AI/video-router](https://github.com/Orkas-AI/Orkas-VideoStudio/tree/main/packages/skills/video-router)** - Route video requests through deterministic agent production stages
 
 </details>
 
