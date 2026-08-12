@@ -1839,6 +1839,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[zilliztech/mfs](https://github.com/zilliztech/mfs)** - `mfs-find` / `mfs-ingest` skills that search, grep and read across your code, docs, chat (Slack/Gmail/Jira), databases and object stores as one file-like, searchable namespace; self-hosted with local ONNX embeddings
 - **[ohad6k/emulo](https://github.com/ohad6k/emulo)** - Mines AI coding logs into personal agent profiles
 - **[Tubo2333/obsidian-knowledge-brain](https://github.com/Tubo2333/obsidian-knowledge-brain)** - Cross-session knowledge memory and rule evolution for AI coding agents
+- **[stjbrown/agent-knowledge](https://github.com/stjbrown/agent-knowledge)** - Maintains portable, cited agent knowledge bases in plain Markdown
 - **[khendzel/skills-janitor](https://github.com/khendzel/skills-janitor)** - Token audit, usage tracking, and swipe-to-delete skill pruning.
 - **[oliver-zehentleitner/keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why)** - Preserves the reasoning behind a codebase — decisions, workarounds, rejected alternatives
 
