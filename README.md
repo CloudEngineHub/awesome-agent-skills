@@ -1729,6 +1729,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[pattern-ai-labs/agentcall](https://github.com/pattern-ai-labs/agentcall)** - Let your AI agents join Google Meet, Zoom, Teams calls and collaborate like a real team-mate.
 - **[Sendmux/skills](https://github.com/Sendmux/skills)** - Sendmux email and mailbox workflows for agents
 - **[Neeeophytee/finding-unknowns-skills](https://github.com/Neeeophytee/finding-unknowns-skills)** - 8 meta-skills that make a coding agent surface your unknowns before they get expensive: blindspot pass, interview, reference hunt, implementation plan/notes, pitch packager, and a pre-merge change quiz. Works in Claude Code, Codex, and Cursor via the agentskills.io SKILL.md format
+- **[kgraph57/strategy-consulting-visualization](https://github.com/kgraph57/mckinsey-style-visualization-skill)** - McKinsey-style charts and consulting slide decks
 
 </details>
 
