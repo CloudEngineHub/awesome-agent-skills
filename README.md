@@ -1816,6 +1816,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis)** - Evidence-driven method pack for AI coding agents
 - **[baskduf/codex-fable5](https://github.com/baskduf/FableCodex/tree/main/plugins/codex-fable5/skills/codex-fable5)** - Evidence-based workflow gates for Codex
 - **[csthink/dashmotion](https://github.com/csthink/dashmotion/tree/main/skills/dashmotion)** - Animated technical diagrams from plain English or Mermaid, self-contained HTML/SVG
+- **[squirrelscan/squirrelscan](https://github.com/squirrelscan/squirrelscan/tree/main/skills)** - Audits websites for SEO, performance, security, accessibility and returns fixes
 - **[Simon-He95/markstream-install](https://github.com/Simon-He95/markstream-vue/tree/main/.agents/skills/markstream-install)** - Install streaming Markdown renderers across five frontend frameworks
 - **[eduardo-sl/go-agent-skills](https://github.com/eduardo-sl/go-agent-skills)** - Curated Go skills for code review, concurrency, testing, and architecture
 - **[drogers0/github-image-upload](https://github.com/drogers0/gh-image/tree/main/skills/github-image-upload)** - Attach screenshots, PDFs, logs, zips, and videos to GitHub PRs, issues, and comments, returning canonical user-attachments URLs. GitHub has no public attachment-upload API. Works with Claude Code, Codex, Cursor, and Gemini CLI
