@@ -192,7 +192,7 @@ Production-grade Agent Skills for every major test automation framework, maintai
 <details>
 <summary><h3 style="display:inline">Skills by Modem Dev</h3></summary>
 
-- **[modem-dev/skills](https://github.com/modem-dev/skills)** - Agent skills from Modem, starting with write-discoverable-code
+- **[modem-dev/skills](https://github.com/modem-dev/skills)** - Agent skills from [Modem](https://modem.dev/go/awesome-agent-skills), starting with write-discoverable-code
 
 </details>
 
