@@ -1699,6 +1699,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[AIDevGTM/gtm-cofounder](https://github.com/AIDevGTM/gtm-cofounder)** - 18 go-to-market skills for solo technical founders: positioning, first users, launch, pricing, and founder-led sales; grounded in Adam Frankl and Jakub Czakon
 - **[mailtrap/mailtrap-skills](https://github.com/mailtrap/mailtrap-skills)** - Send emails via API/SMTP with sandbox testing
 - **[SupercmoHQ/superCMO-skills](https://github.com/SupercmoHQ/superCMO-skills)** - Open-source skills + local MCP server for marketing video & image production: UGC videos, ad videos, product photography, and image ads from a product photo and a brief; casts AI actors, picks the best image/video models, edits any-length clips with consistent actor and product, and researches competitor ads. BYO or managed keys, Apache-2.0
+- **[sandbaseai/sandbase-skills/multi-source-search](https://github.com/sandbaseai/sandbase-skills/tree/main/research/multi-source-search)** - Evidence-led multi-source research with offline validation
 
 </details>
 
