@@ -1882,8 +1882,6 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[dannwaneri/spec-writer](https://github.com/dannwaneri/spec-writer)** - Turns vague requests into spec, plan, and tasks
 - **[tt-a1i/archify](https://github.com/tt-a1i/archify/tree/main/archify)** - Generate validated interactive architecture diagrams from codebases or system descriptions
 - **[d1vai/d1v](https://github.com/d1vai/d1v-cli/blob/main/skills/d1v/SKILL.md)** - Deploy web projects with verified previews and confirmed production releases
-- **[Kayforkind/reimagine-it](https://github.com/Kayforkind/reimagine-it)** - Redesigns existing HTML pages from their own content
-- **[scarletkc/agents](https://github.com/scarletkc/agents)** - Reusable standards and workflow skills for AI coding agents
 
 </details>
 
@@ -1934,7 +1932,6 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[frmoretto/clarity-gate](https://github.com/frmoretto/clarity-gate)** - Epistemic quality verification for RAG systems
 - **[wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)** - Autonomous ML research with cross-model review loops and GPU deployment
 - **[Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs)** - 77 AI research skills for model training, inference, and MLOps
-- **[Orchestra-Research/AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs)** - 20-module AI research skill library for model architecture, training, and ML paper writing
 - **[komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant)** - Supercharge and manage Home Assistant workflows
 - **[more-io/apple-bridges](https://github.com/more-io/claude-apple-bridges)** - Native macOS app access — manage Apple Reminders, Calendar, Contacts, Notes, Mail, and tmux sessions via Swift CLI bridges
 - **[hanhuark/mechanical-engineering-research-skill](https://github.com/hanhuark/mechanical-engineering-research-skill)** - Thermal-fluid research writing, proposals, DOE, and presentation feedback
