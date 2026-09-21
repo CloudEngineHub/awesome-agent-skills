@@ -454,6 +454,7 @@ Official skills by Venice.ai for the Venice API.
 - **[cloudflare/web-perf](https://officialskills.sh/cloudflare/skills/web-perf)** - Audit Core Web Vitals and render-blocking resources
 - **[cloudflare/workers-best-practices](https://officialskills.sh/cloudflare/skills/workers-best-practices)** - Review and author Workers code against production best practices and wrangler.jsonc conventions
 - **[cloudflare/wrangler](https://officialskills.sh/cloudflare/skills/wrangler)** - Deploy and manage Workers, KV, R2, D1, Vectorize, Queues, Workflows
+- **[cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)** - Multi-phase security audits with independently verified, machine-readable findings
 
 </details>
 
