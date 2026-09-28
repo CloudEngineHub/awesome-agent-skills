@@ -1697,6 +1697,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[lukstei/slop-grader](https://github.com/lukstei/slop-grader)** - Rule-based CLI tool powered by TypeSafe Jev that evaluates documents against custom rulesets, producing document scores and line-by-line violation flags to guide auto-fixing with an AI agent
 
 - **[exadel-inc/agentic-readiness-assessment](https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment)** - Assess repository readiness for AI coding agents and prioritize fixes.
+- **[half144/cutaway](https://github.com/half144/cutaway)** - Record polished demo videos of web flows with Playwright
 
 </details>
 
