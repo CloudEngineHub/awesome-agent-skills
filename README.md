@@ -1706,6 +1706,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[fishzjp/qa-skills](https://github.com/fishzjp/qa-skills)** - QA engineering for AI coding agents: full lifecycle, measured gains
 - **[UiPath/check-skill](https://github.com/UiPath/coder_eval/tree/main/plugins/coder-eval/skills/check-skill)** - Measures whether a Claude Code skill triggers: precision and recall
 - **[lukstei/slop-grader](https://github.com/lukstei/slop-grader)** - Rule-based CLI tool powered by TypeSafe Jev that evaluates documents against custom rulesets, producing document scores and line-by-line violation flags to guide auto-fixing with an AI agent
+- **[unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse/tree/main/skill)** - Search, call, and read websites via hosted API or MCP
 - **[fujibee/agmsg](https://github.com/fujibee/agmsg)** - Message passing between Claude Code, Codex and Gemini CLI sessions
 - **[exadel-inc/agentic-readiness-assessment](https://github.com/exadel-inc/agentic-readiness-assessment/tree/main/skills/agentic-readiness-assessment)** - Assess repository readiness for AI coding agents and prioritize fixes.
 
